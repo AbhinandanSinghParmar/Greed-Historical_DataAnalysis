@@ -1,5 +1,6 @@
 # Greed-Historical_DataAnalysis
 This project analyzes the relationship between Bitcoin market sentiment and trader performance using real-world trading data. The objective is to understand how sentiment impacts trading behavior, risk-taking, and profitability, and to extract insights that support sentiment-aware trading strategies.
+
 Data Sources
 Bitcoin Fear & Greed Index: Daily sentiment scores and classifications (Extreme Fear, Fear, Greed, Extreme Greed).
 Hyperliquid Historical Trader Data: Trade-level records including execution price, trade size, side (BUY/SELL), fees, timestamps, and realized PnL.
@@ -18,7 +19,3 @@ Market sentiment significantly influences trader behavior, execution style, and 
 
 Conclusion
 The results show that incorporating market sentiment into trading and risk management decisions can improve consistency and reduce drawdowns. This analysis highlights the value of sentiment-aware strategies in cryptocurrency trading.
-
-visualizations section
-
-or a future work section
